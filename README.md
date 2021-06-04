@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Richard-Durkee. I'm a computer science/economics student at Brown University.
-- 👀 I’m interested in fintech, mobile app development, and becoming more familiar with Cloud technology.
-- 🌱 I’m currently learning ReactJS and Angular to improve my front-end skills. 
-- 💞️ I’m looking to collaborate on open-source software or any mobile development projects for the sake of learning. 
+- 👀 I’m interested in improving my software engineering skills to build maintainable, accessible code.
+- 🌱 I’m currently learning React and Angular to improve my front-end skills. 
+- 💞️ I’m looking to collaborate on open-source software.
 - 📫 You can reach me at richard_durkee@brown.edu
 
 <!---
