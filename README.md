@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Richard-Durkee. I'm a computer science/economics student at Brown University.
+- 👋 Hi, I’m @Richard-Durkee. I'm a computer science student at Brown University.
 - 👀 I’m interested in improving my software engineering skills to build maintainable, accessible code.
-- 🌱 I’m currently learning React and Angular to improve my front-end skills. 
 - 💞️ I’m looking to collaborate on open-source software.
 - 📫 You can reach me at richard_durkee@brown.edu
 
